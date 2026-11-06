@@ -28,6 +28,7 @@ public class Main {
         ac.viradaAluno();
         System.out.println(ac.mostrarAlunos());
 
+        ac.limparLista();
         
     }
 }
